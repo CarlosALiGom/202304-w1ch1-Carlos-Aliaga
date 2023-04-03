@@ -1,0 +1,136 @@
+body{
+    background-color: rgb(94, 87, 87);
+}
+
+.flex-container {
+    display: flex;
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.number{
+    font-size: 40px;
+    font-weight: bold;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+    line-height: 200px;
+}
+
+.button-box{
+    width: 100px;
+    height: 100px;
+}
+
+.AC {
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+}
+
+.root {
+    background-color: darkgray;
+    width: 100%;
+    height: 100%;
+}
+
+.negate {
+    background-color: darkgray;
+    width: 100%;
+    height: 100%;
+}
+
+.div {
+    background-color: darkgray;
+    width: 100%;
+    height: 100%;
+}
+
+.seven {
+    width: 100%;
+    height: 100%;
+}
+
+.eight {
+    width: 100%;
+    height: 100%;
+}
+
+.nine {
+    width: 100%;
+    height: 100%;
+}
+
+.multiply {
+    background-color: darkgray;
+    width: 100%;
+    height: 100%;
+}
+
+.four {
+    width: 100%;
+    height: 100%;
+}
+
+.five {
+    width: 100%;
+    height: 100%;
+}
+
+.six {
+    width: 100%;
+    height: 100%;
+}
+
+.rest{
+    background-color: darkgray;
+    width: 100%;
+    height: 100%;
+}
+
+.one {
+    width: 100%;
+    height: 100%;
+}
+
+.two {
+    width: 100%;
+    height: 100%;
+}
+
+.three {
+    width: 100%;
+    height: 100%;
+}
+
+.plus {
+    background-color: darkgray;
+    width: 100%;
+    height: 100%;
+}
+
+.zero {
+    flex-grow: 2;
+    width: 100px;
+    height: 100px;
+
+}
+
+.dot{
+    background-color: darkgray;
+    width: 100%;
+    height: 100%;
+}
+
+.equal {
+    background-color: darkgray;
+    width: 200%;
+    height: 100%;
+}
